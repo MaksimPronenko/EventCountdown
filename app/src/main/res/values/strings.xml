@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Обратный отсчёт</string>
+    <string name="main">Главная</string>
+    <string name="no_events">У вас пока нет событий:(</string>
+    <string name="add_event">+ Добавить событие</string>
+    <string name="start_date">Дата начала:</string>
+    <string name="year_abbreviated">г</string>
+    <string name="add_edit_event">Добавить/редактировать событие</string>
+    <string name="event_name">Название события</string>
+    <string name="event_icon">Значок события</string>
+    <string name="event_start_date">Дата начала события</string>
+    <string name="reminder">Напоминание</string>
+    <string name="day_before">За 1 день до</string>
+    <string name="week_before">За 1 неделю до</string>
+    <string name="color">Цвет</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+    <string name="timer_before_event">Таймер до начала события</string>
+    <string name="years">Лет</string>
+    <string name="months">Месяцев</string>
+    <string name="weeks">Недель</string>
+    <string name="days">Дней</string>
+    <string name="hours">Часов</string>
+    <string name="minutes">Минут</string>
+    <string name="seconds">Секунд</string>
+    <string name="edit">Править</string>
+    <string name="permissions_granted">Разрешения предоставлены</string>
+    <string name="permissions_not_granted">Разрешения не предоставлены</string>
+    <string name="in_1_day">Через 1 день</string>
+    <string name="in_1_week">Через 1 неделю</string>
+    <string name="event_arrived">Событие наступило</string>
+</resources>

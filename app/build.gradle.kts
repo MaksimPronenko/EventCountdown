@@ -9,7 +9,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "pronenko.eventcountdown"
+        applicationId = "big.first.one.app"
         minSdk = 27
         targetSdk = 34
         versionCode = 1

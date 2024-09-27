@@ -27,6 +27,7 @@
 <img src="https://github.com/user-attachments/assets/1a418f9b-5ca9-41c8-9bb8-e00d51133217" width="270" height="585">
 <img src="https://github.com/user-attachments/assets/a6953d9d-d632-4003-95c1-60cbdfe79187" width="270" height="585">
 
+
 ## Инструкция по запуску приложения
 
 Приложение написано на Android Studio + gradle.

@@ -18,6 +18,15 @@
 
 Приложение сделано по заказу компании KiteCoding.
 
+![photo_8](https://github.com/user-attachments/assets/a6953d9d-d632-4003-95c1-60cbdfe79187)
+![photo_7](https://github.com/user-attachments/assets/1a418f9b-5ca9-41c8-9bb8-e00d51133217)
+![photo_6](https://github.com/user-attachments/assets/529cb116-54ee-48d0-963e-1b31b2742ef3)
+![photo_5](https://github.com/user-attachments/assets/ea389a80-12e6-4110-98a6-79fb932d5ca2)
+![photo_4](https://github.com/user-attachments/assets/99d49faf-612d-4ca6-81bc-d02f7daee4e6)
+![photo_3](https://github.com/user-attachments/assets/ed732962-be7a-4f86-ac6c-b1574660e688)
+![photo_2](https://github.com/user-attachments/assets/1e858fb9-a177-4845-bdf3-d8ffdb080d47)
+![photo_1](https://github.com/user-attachments/assets/6ab8ec7e-9f68-40e1-8384-ded9d1145717)
+
 <img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_1_2024-09-27_15-17-15.jpg" width="270" height="585">
 <img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_2_2024-09-27_15-17-15.jpg" width="270" height="585">
 <img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_5_2024-09-27_15-17-15.jpg" width="270" height="585">

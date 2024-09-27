@@ -18,7 +18,7 @@
 
 Приложение сделано по заказу компании KiteCoding.
 
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_1_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://raw.githubusercontent.com/MaksimPronenko/EventCountdown/assets/photo_1_2024-09-27_15-17-15.jpg" width="270" height="585">
 <img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_2_2024-09-27_15-17-15.jpg" width="270" height="585">
 <img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_5_2024-09-27_15-17-15.jpg" width="270" height="585">
 <img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_4_2024-09-27_15-17-15.jpg" width="270" height="585">

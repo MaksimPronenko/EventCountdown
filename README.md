@@ -19,13 +19,13 @@
 Приложение сделано по заказу компании KiteCoding.
 
 <img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_1_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_2_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_5_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_4_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_3_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_8_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_6_2024-09-27_15-17-15.jpg" width="270" height="585">
-<img src="https://github.com/MaksimPronenko/EventCountdown/assets/photo_7_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_2_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_5_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_4_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_3_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_8_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_6_2024-09-27_15-17-15.jpg" width="270" height="585">
+<img src="https://github.com/MaksimPronenko/EventCountdown/blob/main/assets/photo_7_2024-09-27_15-17-15.jpg" width="270" height="585">
 
 ## Инструкция по запуску приложения
 
